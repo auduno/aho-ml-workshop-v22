@@ -1,4 +1,4 @@
-AHO ML / AI Workshop - Spring 2021
+AHO ML / AI Workshop - Spring 2022
 ==================================
 
 Code and links to relevant course materials for the AHO ML/AI workshop.

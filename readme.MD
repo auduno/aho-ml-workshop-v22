@@ -121,6 +121,7 @@ Generative music/sound:
     * [Africa continuation example](https://www.youtube.com/watch?v=ZTgWIBT7lr4)
     * [Scatman John continuation example](https://www.youtube.com/watch?v=swoaYZ2btt0)
     * [Daft Punk continuation example](https://www.youtube.com/watch?v=R7n8VO3Rpuo)
+    * Google Colab Notebook to generate Jukebox samples (a bit technical) : https://colab.research.google.com/drive/1gWP6fSqd_vs65tI5uOGcJssGqTq2YWzO
 
 ### Generative Adversarial Networks
 
@@ -175,6 +176,10 @@ CLIP-GLaSS (CLIP + StyleGAN) :
 DALL·E :
 * DALL·E : https://openai.com/blog/dall-e/
 * ruDALL-E : https://rudalle.ru/en/demo
+
+CLIP + Diffusion models:
+* Disco Diffusion v5 : https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
+* CLIP Prompt engineering : https://matthewmcateer.me/blog/clip-prompt-engineering/
 
 ### Machine Learning in the real world
 

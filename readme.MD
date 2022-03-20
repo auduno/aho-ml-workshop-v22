@@ -105,7 +105,7 @@ Generative text:
     * [Training your own char-rnn](https://github.com/ml5js/training-charRNN)
 * [Talk to transformer](https://talktotransformer.com/)
 * [Text Synth (free alternative to Talk to transformer)](https://textsynth.com/playground.html)
-* [Generating code with transformer models (example starts at 28:45)](https://twitter.com/i/broadcasts/1OyKAYWPRrWKb)
+* [Google Copilot](https://copilot.github.com/)
 * [AI Dungeon](https://play.aidungeon.io/main/landing)
 * [Article on turing-testing GPT-3](https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
 
@@ -173,15 +173,17 @@ CLIP-GLaSS (CLIP + StyleGAN) :
 * Default : https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49
 * With your trained model : https://colab.research.google.com/drive/1OHmnnV3CuHxTuQ9wIY8ea9SFBkcKjY_J
 
+### Text-to-image generation
+
 DALL·E :
 * DALL·E : https://openai.com/blog/dall-e/
 * ruDALL-E : https://rudalle.ru/en/demo
 
-CLIP + Diffusion models:
+CLIP + Guided diffusion models:
 * Disco Diffusion v5 : https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
 * CLIP Prompt engineering : https://matthewmcateer.me/blog/clip-prompt-engineering/
 
 ### Machine Learning in the real world
 
 Design resources:
-* [People + AI Guidebook](https://pair.withgoogle.com/)
+* [People + AI Guidebook](https://pair.withgoogle.com/guidebook/)

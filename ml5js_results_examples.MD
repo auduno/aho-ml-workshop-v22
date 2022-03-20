@@ -61,7 +61,7 @@ result = [
 ```
 
 ## PoseNet result:
-For a list of all the keypoints returned, see [this list](https://github.com/tensorflow/tfjs-models/tree/master/posenet#keypoints), and for an image showing the keypoints, see [this image](https://miro.medium.com/max/3074/1*7qDyLpIT-3s4ylULsrnz8A.png).
+For a list of all the keypoints returned, see [this list](https://github.com/tensorflow/tfjs-models/tree/4d8d67792be8aad6d95fee25f3077468e72f9bb0/posenet#keypoints), and for an image showing the keypoints, see [this image](https://miro.medium.com/max/3074/1*7qDyLpIT-3s4ylULsrnz8A.png).
 
 For some more info about this model, see [this blogpost](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5).
 ```

@@ -38,18 +38,24 @@ result = [
 ```
 
 ## Coco-SSD result:
-Returns a list of detected objects. Note that unlike YOLO result, bounding box coordinates does not need to be multiplied by width or height of the image.
+Returns a list of detected objects, with bounding box coordinates, label and confidence.
 ```
 result = [
     {
-        class: "cup",
-        score: 0.9717256426811218,
-        bbox: [137.12531089782715, 263.08570861816406, 217.56497383117676, 206.2405014038086]
+        label: "cup",
+        confidence: 0.9717256426811218,
+        x: 137.12531089782715,
+        y: 263.08570861816406,
+        width: 217.56497383117676,
+        height: 206.2405014038086
     },
     {
-        class: "person",
-        score: 0.7789918780326843,
-        bbox: [103.04500579833984, 95.0709342956543, 513.7735748291016, 387.60669708251953]
+        label: "person",
+        confidence: 0.7789918780326843,
+        x: 103.04500579833984,
+        y: 95.0709342956543,
+        width: 513.7735748291016,
+        height: 387.60669708251953
     }
 ]
 ```

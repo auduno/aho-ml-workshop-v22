@@ -69,3 +69,91 @@ Resources:
 * [ml5js](https://ml5js.org/)
 * [Some more details on PoseNet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
 * [Teachable Machine](https://teachablemachine.withgoogle.com)
+
+## Day 2 : Workshop, similarity and search, Generative ML
+
+### Search and Recommendations
+
+* How spotify recommender works : https://qz.com/571007/the-magic-that-makes-spotifys-discover-weekly-playlists-so-damn-good/
+* Convolutional nets for audio classification (Spotify) : https://benanne.github.io/2014/08/05/spotify-cnns.html
+* Netflix recommendations : https://uxplanet.org/netflix-binging-on-the-algorithm-a3a74a6c1f59
+* How facebook news feed works : https://tech.fb.com/news-feed-ranking/
+* The making of a YouTube Radical (on negative effects of YouTube recommendations) : https://www.nytimes.com/interactive/2019/06/08/technology/youtube-radical.html
+
+### Similarity maps
+
+* http://vy.nasjonalmuseet.no
+* http://fontmap.ideo.com/
+* https://experiments.withgoogle.com/ai/drum-machine/view/
+* https://cs.stanford.edu/people/karpathy/cnnembed/
+* https://projector.tensorflow.org/
+
+### Sequential classifier models
+* [Sentiment analysis in p5js](https://editor.p5js.org/ml5/sketches/Sentiment_Interactive)
+* [Quick, Draw](https://quickdraw.withgoogle.com/)
+
+### Generative Machine Learning
+
+Generative drawing:
+* [SketchRNN](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html)
+    * [Some more info on the sketch dataset](https://www.blog.google/technology/ai/quick-draw-one-billion-drawings-around-world/)
+* [SketchRNN in p5js](https://editor.p5js.org/ml5/sketches/SketchRNN_basic)
+* [SketchRNN interactive in p5js](https://editor.p5js.org/ml5/sketches/SketchRNN_interactive)
+* [Generative handwriting](https://distill.pub/2016/handwriting/)
+
+Generative text:
+* [Talk to transformer / InferKit (GPT-3)](https://talktotransformer.com/)
+* [Text Synth (GPT-J, open-source alternative)](https://textsynth.com/playground.html)
+* [Article on turing-testing GPT-3](https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
+* [AI Dungeon](https://play.aidungeon.io/main/landing)
+* [Google Copilot](https://copilot.github.com/)
+    * Is GitHub Copilot a blessing, or a curse? : https://www.fast.ai/2021/07/19/copilot/
+
+Generative music/sound:
+* [Performance RNN](https://magenta.tensorflow.org/demos/performance_rnn/index.html)
+* [Folk-RNN](https://folkrnn.org/)
+* [Google Bach Doodle RNN](https://www.google.com/doodles/celebrating-johann-sebastian-bach) - more info [here](https://magenta.tensorflow.org/coconet)
+* [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en)
+* [Musenet](https://openai.com/blog/musenet/)
+* [Music transformer](https://magenta.tensorflow.org/music-transformer)
+* [Jukebox](https://openai.com/blog/jukebox/)
+    * [A-ha continuation example](https://www.youtube.com/watch?v=uSWTSML9hwY)
+    * [Africa continuation example](https://www.youtube.com/watch?v=ZTgWIBT7lr4)
+    * [Scatman John continuation example](https://www.youtube.com/watch?v=swoaYZ2btt0)
+    * [Daft Punk continuation example](https://www.youtube.com/watch?v=R7n8VO3Rpuo)
+    * Google Colab Notebook to generate Jukebox samples (a bit technical) : https://colab.research.google.com/drive/1gWP6fSqd_vs65tI5uOGcJssGqTq2YWzO
+
+### Generative Adversarial Networks
+
+GAN examples:
+* BigGAN class visualization : https://www.youtube.com/watch?v=YY6LrQSxIbc&feature=youtu.be
+* StyleGAN presentation : https://www.youtube.com/watch?v=kSLJriaOumA&feature=youtu.be&t=25s
+* StyleGAN faces : https://thispersondoesnotexist.com/
+* StyleGAN cars interpolation : https://youtu.be/OLZ3-ZJwSu4
+* StyleGAN trained on photobooth photos : https://www.reddit.com/r/Damnthatsinteresting/comments/9udese/plugging_50000_portraits_into_facial/?utm_source=share&utm_medium=web2x
+* StyleGAN trained on Garfield : https://twitter.com/calamardh/status/1148655219032690692
+* A bit technical article on training stylegan models : https://www.gwern.net/Faces
+
+Conditional GANs / Image translation:
+* [Pix2Pix Demo](https://affinelayer.com/pixsrv/)
+* [Edges2Pikachu](https://yining1023.github.io/pix2pix_tensorflowjs_lite/)
+* [Celebrity Pix2Pix](https://zaidalyafeai.github.io/pix2pix/celeb.html)
+* [GauGAN/SPADE online](http://gaugan.org/gaugan2/) (NB! you may need to zoom out in the browser to see the entire interface)
+* [Pix2pix applied to video](https://vimeo.com/260612034)
+* [Pix2pix applied to architecture (spacemaker)](https://towardsdatascience.com/ai-architecture-f9d78c6958e0)
+* [Edges2Santas](https://auduno.com/pix2pix_tensorflowjs_lite/)
+
+Hands-on:
+* [Runway ML](https://runwayml.com/)
+
+### Collecting images
+
+Potential sources of images :
+* Google image search : https://images.google.com
+* Nasjonalbiblioteket bilder : https://www.nb.no/search?mediatype=bilder
+* Digitalt museum : https://digitaltmuseum.no/search/?q=stol
+* Flickr : https://flickr.com/search/
+* A variety of botanical illustrations from Flickr : https://www.flickr.com/photos/biodivlibrary/albums
+
+Tools:
+* Download all images chrome extension : https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm?hl=en

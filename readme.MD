@@ -105,6 +105,9 @@ Generative text:
 * [Talk to transformer / InferKit (GPT-3)](https://talktotransformer.com/)
 * [Text Synth (GPT-J, open-source alternative)](https://textsynth.com/playground.html)
 * [Article on turing-testing GPT-3](https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
+* OpenAI GPT-3 examples (need to create user account to access):
+    *[Chat](https://beta.openai.com/playground/p/default-chat)
+    *[Translation](https://beta.openai.com/playground/p/default-translate)
 * [AI Dungeon](https://play.aidungeon.io/main/landing)
 * [Google Copilot](https://copilot.github.com/)
     * Is GitHub Copilot a blessing, or a curse? : https://www.fast.ai/2021/07/19/copilot/

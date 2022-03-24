@@ -175,3 +175,25 @@ CLIP:
 CLIP-GLaSS (CLIP + StyleGAN) :
 * Default : https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49
 * With your trained model : https://colab.research.google.com/drive/1OHmnnV3CuHxTuQ9wIY8ea9SFBkcKjY_J
+
+### Text-to-image generation
+
+DALL·E :
+* DALL·E : https://openai.com/blog/dall-e/
+* ruDALL-E : https://rudalle.ru/en/demo
+
+CLIP + Guided diffusion / VQGAN models:
+* Disco Diffusion v5 : https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
+* https://huggingface.co/spaces/EleutherAI/VQGAN_CLIP
+* https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion
+* https://huggingface.co/spaces/valhalla/glide-text2im
+* CLIP Prompt engineering : https://matthewmcateer.me/blog/clip-prompt-engineering/
+* NightCafe Creator : https://creator.nightcafe.studio/
+* Wombo Dream : https://app.wombo.art/
+* Pollinations.ai (needs linking with Google Colab) : https://pollinations.ai/c/Anything
+* Midjourney beta signup : https://o9q981dirmk.typeform.com/to/zZtF1mVc?typeform-source=www.google.com
+
+### Machine Learning in the real world
+
+Design resources:
+* [People + AI Guidebook](https://pair.withgoogle.com/guidebook/)

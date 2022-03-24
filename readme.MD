@@ -160,3 +160,18 @@ Potential sources of images :
 
 Tools:
 * Download all images chrome extension : https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm?hl=en
+
+# Day 3 : Training models, Multi-modal models
+
+### Controlling StyleGAN
+
+* Artbreeder : https://www.artbreeder.com/browse
+
+CLIP:
+* CLIP : https://openai.com/blog/clip/
+* Visualizing CLIP : https://distill.pub/2021/multimodal-neurons/
+* paint.wtf : https://paint.wtf/
+
+CLIP-GLaSS (CLIP + StyleGAN) :
+* Default : https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49
+* With your trained model : https://colab.research.google.com/drive/1OHmnnV3CuHxTuQ9wIY8ea9SFBkcKjY_J
